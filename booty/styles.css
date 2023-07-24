@@ -1,0 +1,41 @@
+.space1{
+    height: 600px;
+    
+}
+
+.space2{
+    height: 500px;
+    
+    
+
+}
+
+.space3{
+    height: 400px;
+}
+
+.space4{
+    height: 742px;
+    margin-left:  10px;
+    
+}
+
+body{
+    background-color: rgb(89, 187, 187);
+}
+
+.blue{
+    background-color: rgb(77, 147, 147);
+    color: #ffffff;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.pink{
+    background-color: rgb(214, 227, 223);
+}
+
+
+
